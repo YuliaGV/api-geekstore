@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\bin\Debug\net6.0\api-geekstore.Shared.deps.json
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\bin\Debug\net6.0\api-geekstore.Shared.dll
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\bin\Debug\net6.0\api-geekstore.Shared.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.dll
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\refint\api-geekstore.Shared.dll
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\api-geekstore.Shared.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\obj\Debug\net6.0\ref\api-geekstore.Shared.dll
