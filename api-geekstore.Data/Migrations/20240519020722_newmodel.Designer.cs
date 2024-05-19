@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using api_geekstore.Data;
 
@@ -10,9 +11,10 @@ using api_geekstore.Data;
 namespace api_geekstore.Data.Migrations
 {
     [DbContext(typeof(APIGeekStoreContext))]
-    partial class APIGeekStoreContextModelSnapshot : ModelSnapshot
+    [Migration("20240519020722_newmodel")]
+    partial class newmodel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "6.0.29");
@@ -169,11 +171,13 @@ namespace api_geekstore.Data.Migrations
 
             modelBuilder.Entity("api_geekstore.Shared.Product", b =>
                 {
-                    b.HasOne("api_geekstore.Shared.ProductCategory", null)
+                    b.HasOne("api_geekstore.Shared.ProductCategory", "ProductCategory")
                         .WithMany("ProductList")
                         .HasForeignKey("ProductCategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("ProductCategory");
                 });
 
             modelBuilder.Entity("api_geekstore.Shared.Order", b =>

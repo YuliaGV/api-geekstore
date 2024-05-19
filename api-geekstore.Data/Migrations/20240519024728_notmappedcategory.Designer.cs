@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using api_geekstore.Data;
 
@@ -10,9 +11,10 @@ using api_geekstore.Data;
 namespace api_geekstore.Data.Migrations
 {
     [DbContext(typeof(APIGeekStoreContext))]
-    partial class APIGeekStoreContextModelSnapshot : ModelSnapshot
+    [Migration("20240519024728_notmappedcategory")]
+    partial class notmappedcategory
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "6.0.29");
