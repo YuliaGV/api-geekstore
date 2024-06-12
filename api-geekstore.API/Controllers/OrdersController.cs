@@ -1,9 +1,8 @@
 ﻿using api_geekstore.Data;
 using api_geekstore.Shared;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Reflection.Metadata.Ecma335;
+
 
 namespace api_geekstore.API.Controllers
 {
@@ -90,10 +89,5 @@ namespace api_geekstore.API.Controllers
             return NoContent();
 
         }
-
-
-
-
     }
-
 }
