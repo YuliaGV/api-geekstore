@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = api_geekstore.Shared
-build_property.ProjectDir = C:\Users\Usuario\Desktop\DotNETProjects\api-geekstore\api-geekstore.Shared\
+build_property.ProjectDir = C:\Users\USER\Documents\GitHub\api-geekstore\api-geekstore.Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

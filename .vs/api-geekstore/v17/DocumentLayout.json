@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|solutionrelative:api-geekstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|solutionrelative:api-geekstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.api\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|solutionrelative:api-geekstore.api\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2859E89C-596A-4A58-95AB-BC0A1F23204A}|api-geekstore.Shared\\api-geekstore.Shared.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.shared\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2859E89C-596A-4A58-95AB-BC0A1F23204A}|api-geekstore.Shared\\api-geekstore.Shared.csproj|solutionrelative:api-geekstore.shared\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2859E89C-596A-4A58-95AB-BC0A1F23204A}|api-geekstore.Shared\\api-geekstore.Shared.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.shared\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2859E89C-596A-4A58-95AB-BC0A1F23204A}|api-geekstore.Shared\\api-geekstore.Shared.csproj|solutionrelative:api-geekstore.shared\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901B2BAA-3C2B-48FF-A654-23E71474507B}|api-geekstore.API\\api-geekstore.API.csproj|solutionrelative:api-geekstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C322A513-9E90-4931-A104-43C1FF1DAA47}|api-geekstore.Data\\api-geekstore.Data.csproj|c:\\users\\user\\documents\\github\\api-geekstore\\api-geekstore.data\\api-geekstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C322A513-9E90-4931-A104-43C1FF1DAA47}|api-geekstore.Data\\api-geekstore.Data.csproj|solutionrelative:api-geekstore.data\\api-geekstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api-geekstore.Data",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
+              "RelativeDocumentMoniker": "api-geekstore.Data\\api-geekstore.Data.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
+              "RelativeToolTip": "api-geekstore.Data\\api-geekstore.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T01:47:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "api-geekstore.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "api-geekstore.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowDEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:54:49.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "api-geekstore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "RelativeToolTip": "api-geekstore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:49:04.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\Auth\\AuthResult.cs",
+              "RelativeDocumentMoniker": "api-geekstore.Shared\\Auth\\AuthResult.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\Auth\\AuthResult.cs",
+              "RelativeToolTip": "api-geekstore.Shared\\Auth\\AuthResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:47:40.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Configuration\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "api-geekstore.API\\Configuration\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Configuration\\JwtConfig.cs",
+              "RelativeToolTip": "api-geekstore.API\\Configuration\\JwtConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:48:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Program.cs",
+              "RelativeDocumentMoniker": "api-geekstore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\Program.cs",
+              "RelativeToolTip": "api-geekstore.API\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:59:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "api-geekstore.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\appsettings.json",
+              "RelativeToolTip": "api-geekstore.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T14:54:30.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

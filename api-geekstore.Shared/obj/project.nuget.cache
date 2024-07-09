@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gURIGnvPrkiDYzEzwfqQBtPcF2lSrPDmyGkGgCBE8IV4eHdTZkOMuVz5vupVe83gOltQWTz/fuE1d2rmIwvVIw==",
+  "dgSpecHash": "QnJ2FtymMVA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

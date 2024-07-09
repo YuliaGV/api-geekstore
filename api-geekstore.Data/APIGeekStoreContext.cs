@@ -1,9 +1,10 @@
 ﻿using api_geekstore.Shared;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace api_geekstore.Data
 {
-    public class APIGeekStoreContext : DbContext
+    public class APIGeekStoreContext : IdentityDbContext
     {
         
         public APIGeekStoreContext(DbContextOptions options): base(options)

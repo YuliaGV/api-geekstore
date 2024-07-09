@@ -12,10 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a28bcf91-335d-4c66-85d1-86849a6cd801")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-geekstore.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ad8765d3f9b39efbd75d0c4a450de92a0b8519")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-geekstore.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-geekstore.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

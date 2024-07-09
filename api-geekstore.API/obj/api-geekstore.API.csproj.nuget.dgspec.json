@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj",
         "projectName": "api-geekstore.API",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.API\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\api-geekstore.API.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj"
               }
             }
           }
@@ -41,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +63,7 @@
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.31, )"
+              "version": "[6.0.29, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -91,6 +101,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,21 +127,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
         "projectName": "api-geekstore.Data",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Data\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\api-geekstore.Data.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,14 +153,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj"
               }
             }
           }
@@ -137,12 +170,21 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.29, )"
@@ -175,26 +217,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
         "projectName": "api-geekstore.Shared",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\api-geekstore\\api-geekstore.Shared\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\api-geekstore.Shared.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\api-geekstore\\api-geekstore.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -202,6 +262,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -214,6 +275,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -230,12 +296,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
